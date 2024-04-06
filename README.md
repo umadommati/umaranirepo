@@ -1,0 +1,2 @@
+# umaranirepo
+AWS  Devops practice
